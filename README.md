@@ -1,8 +1,5 @@
 
-<!---
-Mahi220/Mahi220 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->](https://www.google.com/imgres?q=datascience%20banner%20for%20github%20free&imgurl=https%3A%2F%2Fwww.shutterstock.com%2Fimage-vector%2Fdata-science-banner-web-icon-600nw-1567366987.jpg&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fdata-science-banner&docid=48OwoBfWxOKBVM&tbnid=uxo8fhF_rKE7uM&vet=12ahUKEwjJzbu22vGFAxUgc_UHHbriCyEQM3oECGcQAA..i&w=600&h=184&hcb=2&ved=2ahUKEwjJzbu22vGFAxUgc_UHHbriCyEQM3oECGcQAA
+
 <h1 align="center">Hi 👋, I'm Mahantesh nk</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
